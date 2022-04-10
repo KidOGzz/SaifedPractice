@@ -1,0 +1,28 @@
+Mongo:
+  Host: localhost
+  Port: 27017
+  Database: vPotPvP
+Redis:
+  Host: localhost
+  Port: 6379
+
+SCOREBOARD:
+  tittle: "&9&lVyzex &7| &fPractice"
+  party: "&b&lYour Party: &f"
+  online: "&bOnline: *&7"
+  in-fight: "&bIn Fights: *&7"
+  in-queue: "&bIn Queue: *&7"
+
+TABLIST:
+  header: "&9&lVyzex &7| &fPractice"
+  online: "&bOnline&7: "
+  ping: "&bPing&7: "
+  in-fights: "&bIn Fights&7: "
+
+LunarAPI:
+  enable: true
+  staff-permission: 'practice.tag.staff'
+
+vip-permission: 'practice.vip'
+
+license: "YOUR-LICENSE-HERE-BRO"

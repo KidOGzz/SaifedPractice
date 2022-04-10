@@ -1,0 +1,5 @@
+name: SaifedPractice
+version: 1.0-AquaCore
+author: KidOGzz
+main: net.frozenorb.potpvp.PotPvPSI
+depend: [ ogLib ]
